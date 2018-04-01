@@ -5,8 +5,6 @@
 #include <sys/types.h>
 #include <stdlib.h>
 #include <errno.h>
-
-#define __USE_POSIX
 #include <signal.h>
 
 
